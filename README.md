@@ -14,4 +14,9 @@
     - 인원 절감 효과로 매출로 연결됨
 
 - 프로젝트 기간: 2022.01~2022.04
-- 
+
+- **워크플로우**
+![CycleGAN%20GTA5-to-Real%20Image%20aff4293d222143ffb6b6d82029785cce/Untitled%204.png](https://github.com/justin95214/CycleGAN-GTA-to-Real-Image/blob/main/src/Untitled%204.png)
+
+= **자동화시스템기반 분석 **
+![CycleGAN%20GTA5-to-Real%20Image%20aff4293d222143ffb6b6d82029785cce/Untitled%204.png](https://github.com/justin95214/CycleGAN-GTA-to-Real-Image/blob/main/src/Untitled%204.png)
