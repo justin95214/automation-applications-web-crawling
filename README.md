@@ -1,4 +1,4 @@
-# automation-applications-leveraging-web-crawling
+# automation-applications-web-crawling
 웹 크롤링을 활용한 다양한 자동화 어플리케이션
 
 ## 기업대상 개발 컨설팅 프로젝트
